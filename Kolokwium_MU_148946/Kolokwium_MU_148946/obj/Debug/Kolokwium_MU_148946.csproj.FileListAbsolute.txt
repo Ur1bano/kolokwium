@@ -1,0 +1,11 @@
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.csproj.AssemblyReference.cache
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.Form1.resources
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.Properties.Resources.resources
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.csproj.GenerateResource.cache
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\bin\Debug\Kolokwium_MU_148946.exe.config
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\bin\Debug\Kolokwium_MU_148946.exe
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\bin\Debug\Kolokwium_MU_148946.pdb
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.exe
+C:\Users\Marcel\Desktop\Kolokwium_MU_148946\Kolokwium_MU_148946\obj\Debug\Kolokwium_MU_148946.pdb
